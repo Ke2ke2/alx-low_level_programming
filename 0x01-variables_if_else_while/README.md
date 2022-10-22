@@ -1,1 +1,1 @@
-C variables if else and while
+solutions c variables
