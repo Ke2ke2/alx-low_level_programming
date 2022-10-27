@@ -1,1 +1,1 @@
-solutions to pointers strings and arrays
+0x06 pointers arrays strings
