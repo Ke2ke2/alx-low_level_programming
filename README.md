@@ -1,1 +1,1 @@
-This repository contains olutions to C
+solutions to recursions
