@@ -1,1 +1,1 @@
-solutions to recursions
+solutions to static libraries
