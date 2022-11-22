@@ -1,1 +1,1 @@
-solutions to static libraries
+solutions to preprocessor
