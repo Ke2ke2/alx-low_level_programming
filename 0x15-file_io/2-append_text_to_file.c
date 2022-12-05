@@ -4,7 +4,7 @@
  * _strlen - finds the length of a string
  * @str: pointer to the string
  * Return: length of the string
- */
+i */
 
 size_t _strlen(char *str)
 {
